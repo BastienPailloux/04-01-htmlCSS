@@ -1,0 +1,30 @@
+@import url("components/card.css");
+@import url("components/button.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body{
+  background-color: #f4f4f4;
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.container{
+  width: 900px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(52, 52, 159);
+}
+
+a:hover {
+  color: rgb(37, 37, 108);
+}
+
+.text-center {
+  text-align: center;
+}
